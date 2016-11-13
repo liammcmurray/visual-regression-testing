@@ -5,7 +5,7 @@ var webdrivercss = require("webdrivercss");
 //set up the browser instance
 var options = {
   desiredCapabilities: {
-    browserName: "firefox"
+    browserName: "chrome"
   }
 };
 //open the set browser, check it's the right page by displaying it in the console
